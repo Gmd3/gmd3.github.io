@@ -1,0 +1,274 @@
+@namespace MadCap url(http://www.madcapsoftware.com/Schemas/MadCap.xsd);
+/*<meta />*/
+
+p.tip
+{
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	background-color: #e7f6f1;
+	background-position: 9px 0px;
+	background-repeat: no-repeat;
+	border: solid 1px #2fcc7b;
+	border-radius: 6px;
+	line-height: 18px;
+	overflow: hidden;
+	padding: 15px 60px;
+	background-image: url('../Images/Run-30.png');
+	background-position-y: center;
+	background-position-x: 20px;
+	font-size: 12pt;
+	font-family: 'Segoe UI';
+	color: #24935a;
+}
+
+p.note
+{
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	background-color: #f0f7fb;
+	background-position: 9px 0px;
+	background-repeat: no-repeat;
+	border-radius: 6px;
+	line-height: 18px;
+	overflow: hidden;
+	background-position-y: center;
+	background-image: url('../Images/Document-30.png');
+	padding-left: 60px;
+	padding-right: 60px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	border-top-left-radius: 6px;
+	border-top-right-radius: 6px;
+	border-bottom-right-radius: 6px;
+	border-bottom-left-radius: 6px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-left-color: #3498db;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-right-color: #3498db;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-top-color: #3498db;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #3498db;
+	background-position-x: 20px;
+	font-family: 'Segoe UI';
+	font-size: 12pt;
+	color: #257cb6;
+	font-weight: normal;
+	font-style: normal;
+}
+
+body
+{
+	color: #3e3e3e;
+	font-family: 'Dubai';
+	font-size: 11pt;
+	background-color: #f5f5f5;
+}
+
+h1
+{
+	font-weight: bold;
+	font-size: 26pt;
+	font-family: 'Franklin Gothic Book';
+	color: #ffffff;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	background-image: none;
+	background-color: #fc4c02;
+}
+
+h2
+{
+	font-weight: bold;
+	font-size: 18.0pt;
+	font-family: 'Franklin Gothic Book';
+	color: #000000;
+}
+
+h3
+{
+	font-weight: bold;
+	font-size: 14.0pt;
+	font-family: 'Franklin Gothic Book';
+	color: #000000;
+}
+
+h4
+{
+	font-weight: bold;
+	font-size: 12.0pt;
+	font-family: 'Franklin Gothic Book';
+	color: #000000;
+}
+
+h5
+{
+	font-weight: bold;
+	font-size: 10.0pt;
+}
+
+h6
+{
+	font-weight: bold;
+	font-size: 26pt;
+	font-family: 'Franklin Gothic Book';
+	margin-top: 0.67em;
+	margin-bottom: 0.67em;
+	color: #000000;
+}
+
+p
+{
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-size: 14pt;
+}
+
+ol,
+ul
+{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+img
+{
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+a.Popup
+{
+	
+}
+
+MadCap|expandingHead
+{
+	font-style: italic;
+	font-weight: normal;
+	cursor: hand;
+	text-decoration: none;
+	color: #006600;
+}
+
+MadCap|expandingBody
+{
+	color: #777777;
+	font-style: italic;
+}
+
+MadCap|dropDownHotspot
+{
+	cursor: hand;
+	font-style: italic;
+	text-decoration: none;
+	color: #006600;
+}
+
+strong
+{
+	font-weight: bold;
+	font-style: normal;
+	color: #008b8b;
+}
+
+a:link
+{
+	text-decoration: underline;
+	font-weight: normal;
+	font-style: normal;
+	color: #0000ff;
+}
+
+a:focus
+{
+	color: #0000ff;
+}
+
+a:hover
+{
+	color: #0000ff;
+}
+
+a:active
+{
+	color: #0000ff;
+}
+
+a
+{
+	font-weight: normal;
+	font-style: normal;
+	color: #0000ff;
+}
+
+img.welcome
+{
+	border-left-style: none;
+	border-left-width: 0px;
+	border-right-style: none;
+	border-right-width: 0px;
+	border-top-style: none;
+	border-top-width: 0px;
+	border-bottom-style: none;
+	border-bottom-width: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+MadCap|dropDownHead
+{
+	font-size: 18pt;
+	font-weight: bold;
+	font-style: normal;
+	font-family: 'Franklin Gothic Book';
+	color: #000000;
+}
+
+i.caption
+{
+	font-size: 11pt;
+}
+
+ol
+{
+	font-size: 14pt;
+}
+
+ul
+{
+	font-size: 14pt;
+}
+
+li
+{
+	font-size: 14pt;
+}
+
+MadCap|xref
+{
+	color: #008b8b;
+}
+
